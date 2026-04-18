@@ -1,4 +1,4 @@
-package com.forwardcompute.spring_boot_demo;
+package com.forwardcompute.springbootdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

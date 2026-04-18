@@ -1,4 +1,4 @@
-package com.forwardcompute.spring_boot_demo;
+package com.forwardcompute.springbootdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
