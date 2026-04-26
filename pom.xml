@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.forwardcompute</groupId>
-	<artifactId>spring-boot-demo</artifactId>
+	<artifactId>spring-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
