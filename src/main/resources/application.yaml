@@ -7,3 +7,14 @@ spring:
     username: guest
     password: guest
     virtual-host: spring-boot
+
+  redis:
+    host: localhost
+    port: 6379
+    timeout: 1000
+    jedis:
+      pool:
+        min-idle: 5
+        max-active: 10
+        max-idle: 10
+        max-wait: 2000
